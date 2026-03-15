@@ -1,0 +1,29 @@
+Weight of Robot
+	112 as of 3/15
+Length and Width of Robot w/ and wo/ bumpers
+	wo/ 28 x 26
+	w/ 32 x 30
+Hopper Capacity
+	40 (ish)
+Fuel Per Second
+	10 Fuel per Second
+Drive Type
+	Swerves
+	Kraken x 
+	Swerve Drive Specialities MK4i L1
+Climber
+	L1 in Auto
+	L1 in Teleop
+Batteries
+	7 Energizer
+	1 Mk
+	8 in total
+Drive Team Experiences
+	Coach: Ryan, a long time
+	Ella: Operator, 2 years
+	Cameron: Driver, 1 year
+Features
+	Auto Align to Hub
+	Shoot anywhere in the Alliance Zone
+	Competitive Autos (see below)
+	
