@@ -26,4 +26,5 @@ Features
 	Auto Align to Hub
 	Shoot anywhere in the Alliance Zone
 	Competitive Autos (see below)
-	
+	Ground Intake
+	Navigate anywhere and everywhere
